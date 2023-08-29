@@ -1,0 +1,10 @@
+insert into orders (id, order_date, payment, id_user) values (1, '2022/12/12', 'carte', 1);
+insert into orders (id, order_date, payment, id_user) values (2, '2022/11/20', 'carte', 2);
+insert into orders (id, order_date, payment, id_user) values (3, '2023/03/10', 'Mvola', 3);
+insert into orders (id, order_date, payment, id_user) values (4, '2023/02/18', 'carte', 4);
+insert into orders (id, order_date, payment, id_user) values (5, '2022/10/28', 'Orange Money', null);
+insert into orders (id, order_date, payment, id_user) values (6, '2022/10/02', 'Mvola', 6);
+insert into orders (id, order_date, payment, id_user) values (7, '2023/06/22', 'carte', 7);
+insert into orders (id, order_date, payment, id_user) values (8, '2022/12/05', 'Orange Money', 8);
+insert into orders (id, order_date, payment, id_user) values (9, '2022/10/15', 'carte', 9);
+insert into orders (id, order_date, payment, id_user) values (10, '2022/12/09', 'carte', 10);
