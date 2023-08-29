@@ -1,0 +1,10 @@
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (1, 'Sara-ann', 'Eddow', 'Turnišče', 'seddow0@merriam-webster.com', '7842015725', '2023/08/19');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (2, 'Alia', 'Leathe', 'Mahalapye', 'aleathe1@oakley.com', '1396885537', '2022/12/04');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (3, 'Esra', 'Maes', 'Sañgay', 'emaes2@creativecommons.org', '7819627036', '2023/08/26');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (4, 'Libbie', 'Sales', 'Bembèrèkè', 'lsales3@sina.com.cn', '7924837214', '2022/12/03');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (5, 'Rodge', 'Crosher', 'Tocopilla', 'rcrosher4@wikipedia.org', '2719386943', '2023/07/10');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (6, 'Jayme', 'Gale', 'Pak Thong Chai', 'jgale5@cocolog-nifty.com', '2609966473', '2023/01/09');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (7, 'Alexia', 'Overthrow', 'Khok Sung', 'aoverthrow6@sciencedirect.com', '2492464860', '2023/07/19');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (8, 'Craggie', 'Inggall', 'Zalantun', 'cinggall7@yellowpages.com', '3208139167', '2022/09/14');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (9, 'Karyl', 'Tregea', 'Kryva Hora', 'ktregea8@imageshack.us', '6444026557', '2023/03/01');
+insert into "user" (id, first_name, last_name, adress, email, phone, creation_date) values (10, 'Shandeigh', 'Attle', 'Zhigulevsk', 'sattle9@jiathis.com', '9992965998', '2022/09/19');

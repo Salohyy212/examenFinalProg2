@@ -1,0 +1,10 @@
+insert into articles (id, article_name, price, stock, id_article_type) values (1, 'venenatis', 4628, 1, 1);
+insert into articles (id, article_name, price, stock, id_article_type) values (2, 'at', 4853, 2, 2);
+insert into articles (id, article_name, price, stock, id_article_type) values (3, 'tincidunt', 19762, 3, 3);
+insert into articles (id, article_name, price, stock, id_article_type) values (4, 'in', 11873, 4, 4);
+insert into articles (id, article_name, price, stock, id_article_type) values (5, 'duis', 17418, 5, 5);
+insert into articles (id, article_name, price, stock, id_article_type) values (6, 'ullamcorper', 14738, 6, 6);
+insert into articles (id, article_name, price, stock, id_article_type) values (7, 'aliquam', 6198, 7, 7);
+insert into articles (id, article_name, price, stock, id_article_type) values (8, 'quisque', 9000, 8, 8);
+insert into articles (id, article_name, price, stock, id_article_type) values (9, 'nec', 18756, 9, 9);
+insert into articles (id, article_name, price, stock, id_article_type) values (10, 'cum', 9513, 10, 10);
