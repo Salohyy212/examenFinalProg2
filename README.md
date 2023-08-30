@@ -8,7 +8,7 @@ The objective of this project is to develop an e-commerce application for the sa
 ```bash
   git clone https://github.com/Salohyy212/examenFinalProg2.git
 ```
-**NB**
+**NB:**
 Don't forget to change the PostgresqlConf
 
 ```bash
